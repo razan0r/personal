@@ -1,0 +1,8 @@
+.section {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+    position: absolute;
+    top: -100px;
+}

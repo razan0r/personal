@@ -80,7 +80,7 @@ transform: scale(1.1);
 }
 
 .card {
-    background-color: burlywood;
+    background-color: burlywood !important;
     width: 21.25em;
     box-shadow: 10px;
     padding: 25px;
@@ -89,7 +89,7 @@ transform: scale(1.1);
 }
 
     .card:hover {
-        background-color: coral;
+        background-color: coral !important;
         transform: scale(1.1);
     }
 
